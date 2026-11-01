@@ -1,0 +1,7 @@
+model_name,cv_f1_weighted,holdout_f1_weighted,holdout_accuracy,holdout_balanced_accuracy,best_params,status
+Logistic Regression,0.8885439189189188,0.8830584707646177,0.8846153846153846,0.8846153846153846,{'C': 5.0},ok
+SVC RBF,0.7448752228163993,0.7562500000000001,0.7692307692307693,0.7692307692307692,"{'C': 3.0, 'gamma': 'scale'}",ok
+Random Forest,0.8054093681014418,0.7097288676236044,0.7307692307692307,0.7307692307692308,"{'max_depth': 6, 'min_samples_leaf': 1, 'n_estimators': 400}",ok
+Gradient Boosting,0.7755456095481672,0.7097288676236044,0.7307692307692307,0.7307692307692308,"{'learning_rate': 0.03, 'max_depth': 2, 'n_estimators': 100}",ok
+Hist Gradient Boosting,0.6996137015926914,0.7097288676236044,0.7307692307692307,0.7307692307692308,"{'l2_regularization': 0.0, 'learning_rate': 0.04, 'max_iter': 150, 'max_leaf_nodes': 15}",ok
+Extra Trees,0.7227273747027414,0.6067226890756303,0.6538461538461539,0.6538461538461539,"{'max_depth': 10, 'min_samples_leaf': 1, 'n_estimators': 200}",ok

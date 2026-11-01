@@ -1,0 +1,13 @@
+month,month_name,date_label,pred_fire_ha,pred_risk_cat,pred_risk_label,risk_color,prob_rendah,prob_sedang,prob_tinggi,prob_sgt_tinggi,trigger_score,mean_lst,total_rain,mean_ndvi,mean_wind_ms,fire_risk_index,risk_model_name,area_model_name
+1,Januari,2026-01,6503.2,0,Rendah,#2ecc71,0.977,0.023,0.0,0.0,0,28.1,273.0,0.628,0.35,0.294,Logistic Regression,RandomForestRegressor fallback
+2,Februari,2026-02,15886.2,1,Sedang,#f39c12,0.03,0.97,0.0,0.0,0,28.4,180.3,0.627,0.39,0.361,Logistic Regression,RandomForestRegressor fallback
+3,Maret,2026-03,15157.2,1,Sedang,#f39c12,0.284,0.716,0.0,0.0,0,29.4,261.6,0.689,0.23,0.302,Logistic Regression,RandomForestRegressor fallback
+4,April,2026-04,11554.9,0,Rendah,#2ecc71,0.991,0.009,0.0,0.0,0,29.1,279.8,0.726,0.17,0.27,Logistic Regression,RandomForestRegressor fallback
+5,Mei,2026-05,13882.9,0,Rendah,#2ecc71,0.94,0.06,0.0,0.0,0,28.9,247.0,0.747,0.36,0.284,Logistic Regression,RandomForestRegressor fallback
+6,Juni,2026-06,21590.4,0,Rendah,#2ecc71,0.554,0.446,0.0,0.0,0,28.4,180.8,0.773,0.65,0.312,Logistic Regression,RandomForestRegressor fallback
+7,Juli,2026-07,35752.3,1,Sedang,#f39c12,0.026,0.974,0.0,0.0,0,28.7,116.3,0.775,0.0,0.353,Logistic Regression,RandomForestRegressor fallback
+8,Agustus,2026-08,40603.8,1,Sedang,#f39c12,0.18,0.82,0.0,0.0,0,29.0,195.0,0.729,0.0,0.323,Logistic Regression,RandomForestRegressor fallback
+9,September,2026-09,26044.9,1,Sedang,#f39c12,0.088,0.912,0.0,0.0,0,29.6,215.7,0.649,0.0,0.347,Logistic Regression,RandomForestRegressor fallback
+10,Oktober,2026-10,16066.7,1,Sedang,#f39c12,0.238,0.761,0.001,0.0,0,29.5,263.6,0.624,0.0,0.323,Logistic Regression,RandomForestRegressor fallback
+11,November,2026-11,8678.5,0,Rendah,#2ecc71,1.0,0.0,0.0,0.0,0,28.4,343.1,0.636,0.0,0.274,Logistic Regression,RandomForestRegressor fallback
+12,Desember,2026-12,9148.3,0,Rendah,#2ecc71,1.0,0.0,0.0,0.0,0,27.4,312.3,0.615,0.0,0.265,Logistic Regression,RandomForestRegressor fallback
