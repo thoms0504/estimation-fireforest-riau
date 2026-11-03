@@ -7,7 +7,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-MODIS%2F061-4285F4?style=flat-square&logo=google&logoColor=white)](https://earthengine.google.com)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
 Sistem analisis multi-variabel berbasis **Google Earth Engine + Machine Learning** untuk deteksi dini dan estimasi risiko kebakaran hutan di Provinsi Riau, Indonesia.
 
@@ -269,9 +268,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
